@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karan Goyal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karangoya03" alt="karangoya03" /></a> </p>
-
 - 🔭 I’m currently working on **Kanbas-web-app**
 
 - 💬 Ask me about **Anything**
@@ -25,6 +23,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/karangoyal03"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="karangoyal03" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karangoya03&show_icons=true&locale=en&layout=compact" alt="karangoya03" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karangoya03&show_icons=true&locale=en" alt="karangoya03" /></p>
